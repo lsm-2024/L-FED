@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e342638-b5fc-4856-95c2-2b6c98774702" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33uX6PZ96OuJ8b3pWzdsOsPFA9t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.L-FED1.executor": "Run",
+    "Python.L-FED2.executor": "Run",
+    "Python.L-FED3.executor": "Run",
+    "Python.L-FED5.executor": "Run",
+    "Python.L-FED6.executor": "Run",
+    "Python.LSTM_Informer.executor": "Run",
+    "Python.cnn.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.evaluate.executor": "Run",
+    "Python.exp_main.executor": "Run",
+    "Python.fed.executor": "Run",
+    "Python.l-fed4.executor": "Run",
+    "Python.lstm.executor": "Run",
+    "Python.quickarrays.executor": "Run",
+    "Python.run.executor": "Run",
+    "Python.transformer2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN10\l-fed\l-fed3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5e342638-b5fc-4856-95c2-2b6c98774702" name="更改" comment="" />
+      <created>1760167754616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760167754616</updated>
+    </task>
+    <servers />
+  </component>
+</project>
